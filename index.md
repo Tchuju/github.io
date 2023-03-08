@@ -2,7 +2,7 @@
 title: Mon super site
 ---
 
-Intro
+# Intro
 
 - [Introduction](intro.md)
 - [Conclusion](conclu.md)
